@@ -53,8 +53,6 @@ if uploaded_file is not None:
 
 submit1 = st.button("Tell me about the resume")
 
-submit2 = st.button("How can I improvise my skills")
-
 submit3 = st.button("Percentage match")
 
 input_prompt1 = """
