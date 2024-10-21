@@ -1,5 +1,7 @@
 ATS Resume Expert
+
 Overview
+
 The ATS Resume Expert is a Streamlit application designed to help users match their resumes with job descriptions using an AI-based evaluation. It leverages Google's Gemini language model to provide insights on the strengths and weaknesses of a candidate's resume in comparison to a given job description, as well as an ATS (Applicant Tracking System) style percentage match. The application provides three key features:
 
 Resume Evaluation: Evaluates the user's resume and highlights its strengths and weaknesses in relation to the job description.
